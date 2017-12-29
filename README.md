@@ -19,7 +19,7 @@ Any browser
 In order to run the program, download the source files into the same folder and open **playfair.html** with a browser of your choice.
 
 
-## Authors
+## Author
 
-* **Mussie Habtemichael** - *Initial work* - [mussieh](https://github.com/mussieh)
+* **Mussie Habtemichael** - [mussieh](https://github.com/mussieh)
 
