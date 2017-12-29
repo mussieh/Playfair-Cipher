@@ -1,5 +1,4 @@
 # Playfair-Cipher
-JavaScript Implementation of the Playfair cipher
 
 This program has the capability to encrypt or decrypt text based on the keyword provided.
 
