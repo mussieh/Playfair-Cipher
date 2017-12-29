@@ -1,6 +1,6 @@
 # Playfair-Cipher
 
-This program has the capability to encrypt or decrypt text based on the keyword provided.
+This program implements the Playfair cipher for encrypting or decrypting text based on a given keyword.
 
 ## Getting Started
 
